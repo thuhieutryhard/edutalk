@@ -2,7 +2,7 @@ export const data = [
     {
       name: "Hoàng Thị Thu Thuỳ",
       office: "Edutalk Tam Khương",
-      revenue: "398.000.000 đ",
+      revenue: "398.000.000đ",
       position: "Đạt chỉ tiêu 1 GĐVP",
     },
     {
